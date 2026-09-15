@@ -1,0 +1,5 @@
+"cluster","n","jaccard","verdict"
+1,19,0.787,"stable"
+2,21,0.792,"stable"
+3,20,0.691,"pattern present, not highly stable"
+4,19,0.617,"pattern present, not highly stable"

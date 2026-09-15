@@ -1,0 +1,6 @@
+data/*.rds
+data/*.csv
+.Rhistory
+.RData
+__pycache__/
+*.pyc
